@@ -1,0 +1,94 @@
+    Installed Packages & Tools (Fedora Setup)
+    1. Programming & Development Tools
+
+        VS Code (with account backup) – Done
+
+        Neovim (with LunarVim configuration)
+
+        Warp – Done
+
+        Cursor – Done
+
+        Gemini CLI - done
+
+    Programming Languages & Runtimes
+
+        Python (with pip)
+
+        C++ (GCC) – Done
+
+        C (G++) – Done
+
+        Rust
+
+        Node.js
+
+        npm
+
+    2. Browsers & Virtualization
+
+        Brave Browser
+
+        VirtualBox
+
+    3. Gaming & Communication
+
+        Steam
+
+        Discord
+
+    4. System Utilities & Services
+
+        TLP (Power management service)
+
+        Wine
+
+        Bottles
+
+        Gear Lever
+
+        lm studio
+
+        ollama
+
+        only office
+
+        vlc and mpv player
+
+        telegram
+
+        proton vpn
+
+        jdownloader
+
+        free Download Manager
+
+        discord
+
+        bitwarden
+
+        firefox password and sync
+
+        https://github.com/johnfanv2/LenovoLegionLinux
+
+        timeshift
+
+        stremio
+        playtorrio
+        viu-media
+        ani-cli
+        variety
+        scrcpy
+        klassy application styles
+        waydroid
+
+
+    5. Setup & Customization
+
+        YouTube Playlist (for setup & customization) – Done
+
+    Notes
+
+        This list is compiled after moving from Linux Mint to Fedora.
+
+        It is not a complete list, but it covers the essential tools and services currently installed.
